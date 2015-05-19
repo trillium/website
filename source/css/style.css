@@ -26,3 +26,12 @@ footer.container {
         padding-bottom: 40px;
     }
 }
+
+.navbar-inverse .navbar-inner {
+    background-color: #3c3e50;
+    background-image: none;
+}
+
+a {
+    color: #18bc9c;
+}
